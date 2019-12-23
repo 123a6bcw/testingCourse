@@ -1,9 +1,9 @@
-package ru.hse.testing;
+package ru.hse.testing.hw2;
 
 import java.io.*;
 import java.util.*;
 
-public class Generator {
+public class HW2_Generator {
     public static void main(String... argc) throws FileNotFoundException {
         List<Character[]> pp = new ArrayList<>();
         List<Boolean> isValid = new ArrayList<>();
